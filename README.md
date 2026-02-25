@@ -4,7 +4,7 @@
 
 ## Olá 👋
 
-Sou Laís Landin, Senior QA Engineer com foco em estratégia de qualidade, automação e fortalecimento da cultura de testes.
+Sou Laís Landin, QA Engineer Senior com foco em estratégia de qualidade, automação e fortalecimento da cultura de testes.
 
 Atuo no domínio de investimentos, contribuindo para evoluir a maturidade de qualidade do time desde validações complexas de regras de negócio e compliance até a estruturação de frameworks de automação escaláveis (Web, Mobile e Backend).
 
